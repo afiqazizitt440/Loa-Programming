@@ -14,4 +14,3 @@ if data then
  udpp:sendto(data, ip, port)
 end
 --end
-run lua
